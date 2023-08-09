@@ -2,7 +2,7 @@
 
 The "Good, Cheap, Fast Toggle Project" is a simple interactive web application that allows users to select their project's priorities among three options: Good, Cheap, and Fast. This project is implemented using HTML, CSS, and JavaScript to create an engaging user interface with animated toggle switches.
 
-![Demo](./assets/demo.gif)
+![Demo](./assets/Demo.gif)
 
 ## Introduction
 
